@@ -9,7 +9,7 @@ SITEURL = 'http://localhost:8000' #'https://krishnamiriyala.github.io'
 SITESUBTITLE ='Vitrualization | Cloud | Software Engineering'
 SITEDESCRIPTION = "Vitrualization blog."
 
-SITELOGO = 'https://ptyagicodecamp.github.io/images/profile.jpg'
+SITELOGO = 'https://krishnamiriyala.github.io/images/profile.jpg'
 FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
@@ -41,17 +41,13 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 LINKS = (
-        ('LinkedIn', 'https://www.linkedin.com/in/priyankatyagi'),
-        ('GitHub', 'https://github.com/ptyagicodecamp'),
-        ('Medium', 'https://medium.com/@ptyagicodecamp'),
-        ('Twitter', 'https://twitter.com/ptyagi13'),
+        ('LinkedIn', 'https://www.linkedin.com/in/krishnamiriyala'),
+        ('GitHub', 'https://github.com/krishnamiriyala'),
 	)
 
 SOCIAL = (
-        ('LinkedIn', 'https://www.linkedin.com/in/priyankatyagi'),
-        ('GitHub', 'https://github.com/ptyagicodecamp'),
-        ('Medium', 'https://medium.com/@ptyagicodecamp'),
-        ('Twitter', 'https://twitter.com/ptyagi13'),
+        ('LinkedIn', 'https://www.linkedin.com/in/krishnamiriyala'),
+        ('GitHub', 'https://github.com/krishnamiriyala'),
         #('rss', '/blog/feeds/all.atom.xml'),
 	)
 
@@ -68,7 +64,7 @@ CC_LICENSE = {
 COPYRIGHT_YEAR = datetime.now().year
 DEFAULT_PAGINATION = 10
 
-#DISQUS_SITENAME = "ptyagicodecamp"
+#DISQUS_SITENAME = "krishnamiriyala"
 #ADD_THIS_ID = 'ra-5cf387135c8761da'
 
 STATIC_PATHS = ['images']

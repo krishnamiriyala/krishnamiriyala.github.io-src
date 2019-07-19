@@ -65,7 +65,7 @@ COPYRIGHT_YEAR = datetime.now().year
 DEFAULT_PAGINATION = 10
 
 #DISQUS_SITENAME = "krishnamiriyala"
-#ADD_THIS_ID = 'ra-5cf387135c8761da'
+#ADD_THIS_ID = ''
 
 STATIC_PATHS = ['images']
 
@@ -76,14 +76,14 @@ USE_LESS = True
 GITHUB_CORNER_URL = 'https://github.com/krishnamiriyala'
 
 GOOGLE_ADSENSE = {
-    'ca_id': 'ca-pub-6359982310050489',
+    'ca_id': '',
     'page_level_ads': True,
     'ads': {
-        'aside': '8977779775',
-        'main_menu': '8977779775',
-        'index_top': '', #8977779775
-        'index_bottom': '8977779775',
-        'article_top': '6546879945',
-        'article_bottom': '6546879945',
+        'aside': '',
+        'main_menu': '',
+        'index_top': '', 
+        'index_bottom': '',
+        'article_top': '',
+        'article_bottom': '',
     }
 }
